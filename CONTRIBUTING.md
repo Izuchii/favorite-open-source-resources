@@ -35,3 +35,8 @@ We believe in recognizing all contributions, not just code. Here's how we do it.
 - **Learning Resources**
 
 Thank you for contributing to [Project Name]!
+
+<!-- Create a new file named CONTRIBUTING.md in the root of your repository.
+Outline the process for submitting issues and pull requests.
+Include coding standards, style guides, or any specific requirements.
+Mention how contributors can ask for help or clarification. -->
